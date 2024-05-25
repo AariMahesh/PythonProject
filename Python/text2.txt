@@ -1,0 +1,1 @@
+hello from file handling in python python is amazing language
